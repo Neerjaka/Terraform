@@ -1,0 +1,6 @@
+aws_region = "us-east-1"
+ami_id = "ami-IDXXXXXXX"
+subnet_id = "subnet-IDxxxxxxxx"
+security_group_id = "sg-IDxxxxxx"
+instance_name = "any_name"
+instance_type = "t2.micro"
